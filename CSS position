@@ -1,0 +1,5 @@
+Positions in CSS
+
+Position: relative /* it will be related to the parent div*/
+position : absolute /* absolute to the relative div. if there is no relative div then directly to BODY*/
+position : static /* just static*/
