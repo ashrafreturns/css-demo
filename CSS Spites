@@ -1,0 +1,12 @@
+css spites.
+
+CSS spries helps you to use mutilpe images throug a single file. it reduced athe request to the server.
+
+example:
+
+.mydiv
+{
+  leeft: 100px;
+    width: 100px;
+    background: url('img_navsprites.gif') -47px 0;
+}
