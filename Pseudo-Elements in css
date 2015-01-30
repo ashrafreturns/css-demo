@@ -1,0 +1,10 @@
+CSS pseudo-element is used to style certain parts of an element.
+
+Style the first letter, or line, of an element
+Insert content before, or after, the content of an element
+
+example
+
+div::first-line {
+    color: #black;
+}
